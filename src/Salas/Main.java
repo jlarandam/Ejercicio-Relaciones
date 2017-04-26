@@ -42,10 +42,10 @@ public class Main {
         
         ArrayList<Dia>dias = new ArrayList<>();
         Dia dia1 = new Dia(fecha1, "Lunes", segmentos);
-        Dia dia2 = new Dia(fecha1, "Martes", segmentos);
-        Dia dia3 = new Dia(fecha1, "Miercoles", segmentos);
-        Dia dia4 = new Dia(fecha1, "Jueves", segmentos);
-        Dia dia5 = new Dia(fecha1, "Viernes", segmentos);
+        Dia dia2 = new Dia(fecha2, "Martes", segmentos);
+        Dia dia3 = new Dia(fecha3, "Miercoles", segmentos);
+        Dia dia4 = new Dia(fecha4, "Jueves", segmentos);
+        Dia dia5 = new Dia(fecha5, "Viernes", segmentos);
         dias.add(dia1);
         dias.add(dia2);
         dias.add(dia3);
